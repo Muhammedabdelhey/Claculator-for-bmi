@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="header">BMI Calculator</string>
+    <string name="weightText">Enter Your Weight :</string>
+    <string name="heightText">Enter Your Height :</string>
+    <string name="weight_hint">write Weight Here</string>
+    <string name="height_hint">write height Here</string>
+    <string name="Bname">Calculate BMI</string>
+    <string name="sec_header">Your Result </string>
+    <string name="bmi">Your BMI : </string>
+    <string name="state">Your  Status : </string>
+    <string name="B2_name">Send Your Result To Your Friend</string>
+    <string-array name="weightUnits">
+        <item>Kilograms</item>
+        <item>Pounds</item>
+    </string-array>
+    <string-array name="heightUnits">
+        <item>Inches</item>
+        <item>Meters</item>
+        <item>Centimeters</item>
+    </string-array>
+</resources>
